@@ -1,9 +1,8 @@
 # 👋🏻 Olá, eu sou o Eduardo! - 
-
-- 🎓 Focado em Python, HTML e CSS - - 
-- 💻 Estudante de Desenvolvimento de Sistemas - 
+ 
+- 💻 Estudante de Desenvolvimento de Sistemas -
+- 🎓 Focado em Python, HTML e CSS - -
 - 🚀 Preparando-se para o mercado de tecnologia 
-- 📫 Contato: miranda.celebre@gmail.com
 
 ## 🛠 Tecnologias que estudo 
 <div style="display: inline_block"><br> 
@@ -20,6 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 </div>
 
 ## 🛠 Como me encontrar 
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-miranda-2867183b7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miranda.celebre@gmail.com)
